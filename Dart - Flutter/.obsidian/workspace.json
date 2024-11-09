@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "788440c14008b2e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ee53b1431bb078a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcae1bdb48cd8179",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flutter/StatefulWidget/Stateful Widgets.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stateful Widgets"
+            }
+          },
+          {
+            "id": "6795dabe2ec3221f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0fb83d05658723a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ba122d9f2dbc2fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6bba79fd01f7d317",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cbb5b4d2d7f78ab9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "99543a8f32a9a5ca",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "884c489830e8c5f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "2581ab18ddcd2a87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e54673f88dffdd55",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Flutter.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Flutter"
+            }
+          },
+          {
+            "id": "4b96bf336d66e64b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Flutter.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Flutter"
+            }
+          },
+          {
+            "id": "cc045b2b99ae3426",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "439a9f6f1fcf2b6d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Flutter.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Flutter"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6795dabe2ec3221f",
+  "lastOpenFiles": [
+    "Flutter/StatefulWidget/Stateful Widgets.md",
+    "Flutter/Flutter.md",
+    "Flutter/Widgets.md",
+    "Flutter/Flutter",
+    "Dart/Dart.md",
+    "Dart/Metadata.md",
+    "Flutter/StatefulWidget/intiState.md",
+    "Flutter/StatefulWidget/Screenshot 2024-11-07 104621.png",
+    "Flutter/Transparent Widgets.md",
+    "Flutter/StatefulWidget",
+    "Flutter/Icons.md",
+    "Dart/Random Number Generation.md",
+    "Flutter/General.md",
+    "Flutter/Buttons.md",
+    "Flutter/Space between Widgets, Padding.md",
+    "Dart/Comments.md",
+    "Dart/Operators.md",
+    "Flutter/Display Images.md",
+    "Dart/Classes.md",
+    "Dart/Variables.md",
+    "Flutter",
+    "Untitled.md",
+    "Dart/Functions.md",
+    "Dart",
+    "Welcome.md"
+  ]
+}

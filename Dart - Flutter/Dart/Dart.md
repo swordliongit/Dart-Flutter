@@ -5,3 +5,4 @@
 [[Operators]]
 [[Random Number Generation]]
 [[Variables]]
+[[Collections]]

@@ -63,6 +63,11 @@ querySelector('#confirm') // Get an object.
 
 ## Spread Operator (...)
 
+```dart
+var list = [1, 20, 30];
+var list2 = [10, 25, ...list];
+```
+
 
 
 ---

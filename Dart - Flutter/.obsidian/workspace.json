@@ -8,31 +8,61 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dcae1bdb48cd8179",
+            "id": "6795dabe2ec3221f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "b113384925ef08b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/StatefulWidget/Stateful Widgets.md",
+                "file": "Flutter/Flutter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stateful Widgets"
+              "title": "Flutter"
             }
           },
           {
-            "id": "6795dabe2ec3221f",
+            "id": "b4387020e23ec1f0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Flutter/Icons.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Icons"
+            }
+          },
+          {
+            "id": "2ee1e53c8a25f84e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flutter/Buttons.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Buttons"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -63,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "stack",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,40 +195,48 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "6795dabe2ec3221f",
+  "active": "6bba79fd01f7d317",
   "lastOpenFiles": [
-    "Flutter/StatefulWidget/Stateful Widgets.md",
-    "Flutter/Flutter.md",
+    "Dart/Variables.md",
+    "Dart/Random Number Generation.md",
     "Flutter/Widgets.md",
-    "Flutter/Flutter",
+    "Flutter/Transparent Widgets.md",
+    "Flutter/Space between Widgets, Padding.md",
+    "Flutter/Margin around the Widgets.md",
+    "Flutter/Adding External Packages.md",
+    "Flutter/Centering Widgets.md",
+    "Flutter/Buttons.md",
+    "Flutter/Changing Opacity.md",
+    "Flutter/Display Images.md",
+    "Flutter/General.md",
+    "Dart/Input Output.md",
+    "Flutter/Problem Workarounds/Updating Android Studio.md",
+    "Flutter/Icons.md",
+    "Flutter/Problem Workarounds",
+    "Flutter/Flutter.md",
+    "Dart/Collections.md",
+    "Dart/Concurrency/Streams.md",
+    "Dart/Concurrency/Concurrency.md",
+    "Dart/Concurrency",
+    "Dart/Operators.md",
+    "Flutter/StatefulWidget/Stateful Widgets.md",
     "Dart/Dart.md",
+    "Flutter/Flutter",
     "Dart/Metadata.md",
     "Flutter/StatefulWidget/intiState.md",
     "Flutter/StatefulWidget/Screenshot 2024-11-07 104621.png",
-    "Flutter/Transparent Widgets.md",
     "Flutter/StatefulWidget",
-    "Flutter/Icons.md",
-    "Dart/Random Number Generation.md",
-    "Flutter/General.md",
-    "Flutter/Buttons.md",
-    "Flutter/Space between Widgets, Padding.md",
     "Dart/Comments.md",
-    "Dart/Operators.md",
-    "Flutter/Display Images.md",
     "Dart/Classes.md",
-    "Dart/Variables.md",
     "Flutter",
-    "Untitled.md",
-    "Dart/Functions.md",
-    "Dart",
-    "Welcome.md"
+    "Dart"
   ]
 }

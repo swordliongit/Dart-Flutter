@@ -7,3 +7,4 @@
 [[Space between Widgets, Padding]]
 [[Transparent Widgets]]
 [[Stateful Widgets]]
+[[Margin around the Widgets]]

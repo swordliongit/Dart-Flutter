@@ -21,3 +21,21 @@ TextButton(
   ),
 )
 ``` 
+
+
+
+## Styling Buttons and Rounding Button Corners
+- shape parameter and ==RoundedRectangleBorder==
+```dart
+ElevatedButton(
+  style: ElevatedButton.styleFrom(
+	backgroundColor: const Color.fromARGB(255, 32, 8, 88),
+	foregroundColor: Colors.white,
+	shape: RoundedRectangleBorder(
+	  borderRadius: BorderRadius.circular(10),
+	),
+  ),
+  onPressed: answerCallback,
+  child: Text(answerText),
+);
+```
